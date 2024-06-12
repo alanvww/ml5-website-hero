@@ -8,10 +8,12 @@ h5,
 h6,
 p,
 a {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 canvas {
-  display: block;
+	display: block;
+	height: auto;
+	width: 100vw;
 }
